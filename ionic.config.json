@@ -1,0 +1,7 @@
+{
+  "name": "Gritty",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
